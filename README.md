@@ -59,8 +59,6 @@ Source: GBIF (Global Biodiversity Information Facility)
 https://www.gbif.org/  
 Species searched: *Bernieria madagascariensis*
 
-Users must download the datasets directly from the official sources and place them in the `data/raw/` directory before running the analysis.
-
 ---
 
 ##  Methodology
